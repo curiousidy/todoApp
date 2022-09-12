@@ -1,0 +1,7 @@
+{
+  "name": "idy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
